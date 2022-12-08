@@ -1,0 +1,12 @@
+Tipo veicolo,Targa,Guasto
+Autoveicolo,FE890TI,"surriscaldamento,frizione 
+difettosa e cinghia da rifare"
+autoveicolo,DX123SV,
+autoveicolo,GA987SD,"tensione,batteria e freni"
+autocarro,DV987FA,Disallineamento asse                  
+motoveicolo,DX123SV,Sbilanciamento dell’albero
+motoveicolo,GA997SD,Usura dei cuscinetti
+ciclomotore,,carrozeria
+macchina agricola,FA123ER,
+motoveicolo,DV987FB,                                                               
+autoveicolo,DX123SV,"bruciato il ""fap"",bruciate le luci di posizione e danni alla carrozzeria"
