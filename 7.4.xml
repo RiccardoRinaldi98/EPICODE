@@ -1,0 +1,23 @@
+<CD serial="12345" albumLength="60:00" recordCompany="Blue Note" year="2018">
+  <artist>Sfera Ebbasta</artist>
+  <artist>Pitbull</artist>
+  <title>Playlist Blue Note</title>
+  <year>2018</year>
+  <tracks>
+    <track>
+      <number>1</number>
+      <duration>3:45</duration>
+      <name>Oh Oh Oh</name>
+    </track>
+    <track>
+      <number>2</number>
+      <duration>4:20</duration>
+      <name>Eh Eh Eh</name>
+    </track>
+    <track>
+      <number>3</number>
+      <duration>3:30</duration>
+      <name>Dancin</name>
+    </track>
+  </tracks>
+</CD>
