@@ -1,0 +1,15 @@
+phonebook
+├── company
+│   ├── cname (Microsoft)
+│   └── exchange (09-999000)
+├── president
+│   └── extension (09-9990011)
+├── secretary
+│   └── extension (09-9990012)
+├── company
+│   ├── cname (Oracle)
+│   └── exchange (09-888000)
+├── president
+│   └── extension (09-8880011)
+└── secretary
+    └── extension (09-8880012)
