@@ -1,0 +1,16 @@
+<letter>
+  <sender>
+    <name>Mario Rossi</name>
+  </sender>
+  <recipient>
+    <name>Francesco Verdi</name>
+  </recipient>
+  <date>01/01/2020</date>
+  <body>
+    Come stai?
+  </body>
+  <signature>
+    Care cose,
+    Mario Rossi
+  </signature>
+</letter>

@@ -1,0 +1,14 @@
+<letter>
+  <header>
+    <sender>Matteo Facchi</sender>
+    <addressee>Lorenzo Storti</addressee>
+    <date>07/06/2003</date>
+  </header>
+  <body>
+    Sei a Milano la prossima settimana?
+  </body>
+  <signature>
+    Cordiali saluti,
+    Matteo Facchi
+  </signature>
+</letter>
