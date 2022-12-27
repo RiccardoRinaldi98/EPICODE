@@ -1,0 +1,94 @@
+[  {    "id": 1,    "name": "John Smith",    "title": "Manager",    "salary": 75000,    "skills": ["leadership", "comunicazione", "problem solving"],
+    "department": {
+      "id": 1,
+      "name": "Marketing"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Jane Doe",
+    "title": "Programmatore Software",
+    "salary": 80000,
+    "skills": ["Java", "Python", "C++"],
+    "department": {
+      "id": 2,
+      "name": "Ingegneria"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Bob Johnson",
+    "title": "Rappresentante",
+    "salary": 60000,
+    "skills": ["vendite", "customer service"],
+    "department": {
+      "id": 3,
+      "name": "Vendite"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Samantha Williams",
+    "title": "Graphic Designer",
+    "salary": 65000,
+    "skills": ["graphic design", "Adobe Creative Suite"],
+    "department": {
+      "id": 1,
+      "name": "Marketing"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Charles Brown",
+    "title": "Product Manager",
+    "salary": 87500,
+    "skills": ["product management", "project management"],
+    "department": {
+      "id": 2,
+      "name": "Ingegneria"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Emily Davis",
+    "title": "Manager Risorse Umane",
+    "salary": 75000,
+    "skills": ["risorse umane", "recruiting", "relazioni tra dipendenti"],
+    "department": {
+      "id": 4,
+      "name": "Risorse Umane"
+    }
+  },
+  {
+    "id": 7,
+    "name": "William Thompson",
+    "title": "Analista Finanziario",
+    "salary": 72500,
+    "skills": ["analisi finanziaria", "analisi dati"],
+    "department": {
+      "id": 5,
+      "name": "Finanza"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Ashley Johnson",
+    "title": "Coordinatore Marketing",
+    "salary": 60000,
+    "skills": ["marketing", "pianificazione eventi"],
+    "department": {
+      "id": 1,
+      "name": "Marketing"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Michael Anderson",
+    "title": "Sviluppatore Software",
+    "salary": 80000,
+    "skills": ["JavaScript", "React", "Node.js"],
+    "department": {
+      "id": 2,
+      "name": "Ingegneria"
+    }
+  },

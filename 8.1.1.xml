@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animals>
+  <mammal name="cane">
+    <breed>Labrador</breed>
+    <color>Golden</color>
+    <personality>
+      <trait>Amichevole</trait>
+      <trait>Fedele</trait>
+    </personality>
+  </mammal>
+  <mammal name="gatto">
+    <breed>Siamese</breed>
+    <color>Grigio</color>
+    <personality>
+      <trait>Indipendente</trait>
+      <trait>Giocoso</trait>
+    </personality>
+  </mammal>
+  <mammal name="cavallo">
+    <breed>Purosangue</breed>
+    <color>Marrone</color>
+    <personality>
+      <trait>Energico</trait>
+      <trait>Intelligente</trait>
+    </personality>
+  </mammal>
+  <bird name="acquila">
+    <species>Calva</species>
+    <color>Marrone</color>
+    <personality>
+      <trait>Maestoso</trait>
+      <trait>Fiero</trait>
+    </personality>
+  </bird>
+  <bird name="piccione">
+    <species>Rock</species>
+    <color>Grigio</color>
+    <personality>
+      <trait>Gentile</trait>
+      <trait>Nervoso</trait>
+    </personality>
+  </bird>
+  <bird name="pappagallo">
+    <species>Cenenrino</species>
+    <color>Grigio</color>
+    <personality>
+      <trait>Socievole</trait>
+      <trait>Furbo</trait>
+    </personality>
+  </bird>
+  <reptile name="tartaruga">
+    <species>Box</species>
+    <color>Verde</color>
+    <personality>
+      <trait>Calma</trait>
+      <trait>Lenta</trait>
+    </personality>
+  </reptile>
+  <reptile name="serpente">
+    <species>Cobra</species>
+    <color>Marrone</color>
+    <personality>
+      <trait>Mortale</trait>
+      <trait>Silenzioso</trait>
+    </personality>
+  </reptile>
+  <reptile name="lucertola">
+    <species>Gecko</species>
+    <color>Verde</color>
+    <personality>
+      <trait>Agile</trait>
+      <trait>Silenziosa</trait>
+    </personality>
+  </reptile>
+  <amphibian name="Rana">
+    <species>Tree</species>
+    <color>Verde</color>
+    <personality>
+      <trait>Giocosa</trait>
+      <trait>Silenziosa</trait>
+    </personality>
